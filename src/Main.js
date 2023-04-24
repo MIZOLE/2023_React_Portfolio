@@ -33,8 +33,8 @@ class Main extends Component {
 
                     <footer>
                         <div id="media">
-                        <a href="https://web.facebook.com/profile.php?id=100084252565503" className="fa fa-facebook"></a>
-                        <a href="https://twitter.com/kom_lulama" className="fa fa-twitter"></a>
+                        <a href="https://web.facebook.com/profile.php?id=100084252565503" class="fa fa-facebook"></a>
+                        <a href="https://twitter.com/kom_lulama" class="fa fa-twitter"></a>
                         </div>
                     
                         <p>© 2023 - 2024 All rights reserved By Lulama Komana</p>
