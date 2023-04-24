@@ -47,7 +47,9 @@ This is a portfolio you just slide through using navigation bar.
 # version control used
 - GitHub
 
+# Deployed version using Vercel
 
+https://2023-react-portfolio-mu2d.vercel.app/#/
 
 
 
