@@ -1,8 +1,9 @@
 # Project Title
-CollaborIt
+My personal-mini portfolio
+
 # Getting Started with CollaborIt React App
 This project was bootstrapped with [Create React App] 
-it is available on GitHub Mizole/collaborit
+it is available on GitHub https://github.com/MIZOLE/2023_React_Portfolio
 
 # Reason why I did this project was to create a digital resume about myself to be employable.
 ## Available Scripts
@@ -43,7 +44,7 @@ This is a portfolio you just slide through using navigation bar.
 # Credits
 - https://www.kirupa.com/
 - Youtube
-
+- 
 # version control used
 - GitHub
 
